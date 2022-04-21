@@ -1,5 +1,4 @@
 import sqlite3
-from urllib import response
 
 class Database:
     """Classe que representa o banco de dados (database) da aplicação."""
